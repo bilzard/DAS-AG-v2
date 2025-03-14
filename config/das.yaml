@@ -1,0 +1,7 @@
+# Aesthetic
+reverse_aesthetic: False
+aesthetic_range: [0.0, 0.0]
+
+# Reproducibility
+use_deterministic_algorithm: True
+seed: 0

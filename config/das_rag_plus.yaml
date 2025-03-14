@@ -1,0 +1,8 @@
+# Aesthetic
+reverse_aesthetic: True
+aesthetic_range: [0.0, 1.0]
+aesthetic_decay_rate: 0.06
+
+# Reproducibility
+use_deterministic_algorithm: True
+seed: 0

@@ -1,0 +1,6 @@
+positive_prompts:
+  - A photorealistic illustration of "a gigantic metallic Mona Lisa in red pajama attacking the city", dynamic camera angle, fine-grained details
+
+negative_prompts:
+  - text present, low-quality, low-resolution, blurred, noisy, distorted, pixelated, artifact present, without depth, flat, boring, uninteresting, unattractive, unappealing, unclear
+  - nude, naked, nsfw, porn, explicit, erotic, sexual, lewd, hentai, pornography, censored, 18+, sex, sensual, suggestive, perverted, obscene, adult content
